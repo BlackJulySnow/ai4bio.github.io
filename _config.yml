@@ -27,7 +27,7 @@ author:
   bio              : "Lecturer"
   location         : "Xiangtan, Hunan, China"
   employer         : "Xiangtan University"
-  uri              : "https://ai4bio.net"
+  uri              : "https://xuanlin1991.github.io/"
   email            : "jack_lin@xtu.edu.cn" 
 
   # Academic websites
@@ -262,22 +262,22 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 
 # Sass/SCSS
